@@ -28,7 +28,7 @@
 </p>
 
 <figure align="center">
-  <img src="media/fig2.jpg" width="100%">
+  <img src="static/images/mainfigure.png" width="100%">
   <figcaption>
     We propose a novel zero-shot scan-specific self-supervised reconstruction method for magnetic resonance imaging to reduce scan times. We use only undersampled k-space for training and evaluation.
   </figcaption>
