@@ -34,6 +34,8 @@
   </figcaption>
 </figure>
 
+## Code 
+Our code is available at https://github.com/joojinho97/AeSPa
 
 ## Citation
 If you find our code or paper helps, please consider citing:
@@ -46,3 +48,8 @@ If you find our code or paper helps, please consider citing:
   year={2025}
 }
 ````
+
+## Contact
+If you have a question regarding the code, please email at
+- Jinho Joo (jinho38@yonsei.ac.kr)
+- Hyeseong Kim (hyeseongkim@yonsei.ac.kr)
